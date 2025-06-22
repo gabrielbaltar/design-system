@@ -4,7 +4,7 @@ function Main() {
 
   return (
     <>
-     <h1>Hello, World!</h1>
+     <h1>Harriet Herbig-Matten</h1>
     </>
   )
 }
